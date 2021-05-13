@@ -1,0 +1,4 @@
+CHANGELOG BEGINS
+
+13.05.21 - Sigil
+	- Changelog added.
