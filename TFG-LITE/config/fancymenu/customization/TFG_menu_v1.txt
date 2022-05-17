@@ -1,0 +1,315 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = identifier_e9e0927ee4bb438c
+  action = animatebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 130
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 200
+  action = resizebutton
+  height = 21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\modpack\refresh.png
+  backgroundnormal = config\fancymenu\modpack\refresh.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 191
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 100
+  action = resizebutton
+  height = 21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\modpack\refresh.png
+  backgroundnormal = config\fancymenu\modpack\refresh.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = top-left
+  x = 99
+  action = movebutton
+  y = 191
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 101
+  action = resizebutton
+  height = 21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\modpack\refresh.png
+  backgroundnormal = config\fancymenu\modpack\refresh.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = top-left
+  x = 95
+  action = movebutton
+  y = 240
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\modpack\refresh.png
+  backgroundnormal = config\fancymenu\modpack\refresh.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 100
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 200
+  action = resizebutton
+  height = 21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\modpack\refresh.png
+  backgroundnormal = config\fancymenu\modpack\refresh.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  path = config/fancymenu/modpack/tfg_logo.png
+  orientation = top-centered
+  x = -126
+  width = 446
+  actionid = 9efceecb-1650-4df0-84eb-acf82b62f93e1652781079327
+  action = addtexture
+  y = 1
+  height = 205
+}
+
+customization {
+  path = config/fancymenu/modpack/sidebar-slice_full.png
+  orientation = mid-left
+  x = 0
+  width = 204
+  actionid = 9ba006a0-86c2-4b7a-af25-cdff79d67a2c1625412550138
+  action = addtexture
+  y = -304
+  height = 608
+}
+
+customization {
+  orientation = mid-right
+  basecolor = #ff2e2e
+  shadow = true
+  splashfilepath = config\fancymenu\modpack\words.txt
+  rotation = 0.0
+  x = -241
+  actionid = b50e30f0-285d-4758-adf7-b37d310cde931625411624316
+  action = addsplash
+  y = -32
+  scale = 1.0
+  refresh = true
+  bouncing = true
+}
+
+customization {
+  hoversound = config/fancymenu/modpack/sounds/hover.wav
+  orientation = mid-left
+  restartbackgroundanimations = true
+  delayappearanceseconds = 2.0
+  buttonaction = openlink
+  backgroundhovered = config\fancymenu\modpack\discord.png
+  description = Join Our discord server!
+  label = 
+  clicksound = config/fancymenu/modpack/sounds/click.wav
+  loopbackgroundanimations = true
+  x = 119
+  width = 21
+  actionid = 167c782a-1c64-4d7f-ba41-d6e9f34b48e61626554305606
+  action = addbutton
+  y = 60
+  delayappearance = true
+  backgroundnormal = config\fancymenu\modpack\discord.png
+  value = https://discord.gg/TZx8Cfr
+  delayappearanceeverytime = false
+  height = 21
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  backgroundhovered = config\fancymenu\modpack\refresh.png
+  description = %serverplayercount:146.59.61.230%
+  label = Official server TFG
+  loopbackgroundanimations = true
+  x = 49
+  width = 101
+  actionid = 2f2a0982-3a26-4e6a-95ab-377a8b07c4c11626554305606
+  action = addbutton
+  y = 160
+  backgroundnormal = config\fancymenu\modpack\refresh.png
+  value = tfg.terrafirmagreg.su
+  height = 22
+}
+
+customization {
+  showname = false
+  orientation = top-left
+  skinpath = config/fancymenu/modpack/xikaro.png
+  crouching = false
+  x = 49
+  slim = false
+  actionid = 391dfb3e-cfa3-485a-8f81-b299140346bd1625506599349
+  action = addentity
+  y = 70
+  scale = 30
+  playername = Xikaro
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  skinpath = config/fancymenu/modpack/syber.png
+  crouching = false
+  x = 957
+  slim = false
+  actionid = f82cd154-8929-42e4-8e1a-fb5976426ec01625508134345
+  action = addentity
+  y = 581
+  scale = 1
+  parrot = false
+}
+
+customization {
+  showname = false
+  orientation = top-left
+  skinpath = config/fancymenu/modpack/speeedcraft.png
+  crouching = false
+  x = 150
+  slim = false
+  actionid = 9e74612c-c1f7-4ff3-af1d-33b4e4cd32f81625508163945
+  action = addentity
+  y = 69
+  scale = 30
+  playername = SpeeeDCraft
+  parrot = false
+}
+
+customization {
+  hoversound = config/fancymenu/modpack/sounds/hover.wav
+  orientation = mid-left
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.5
+  buttonaction = openlink
+  backgroundhovered = config\fancymenu\modpack\youtube.png
+  label = 
+  clicksound = config/fancymenu/modpack/sounds/click.wav
+  loopbackgroundanimations = true
+  x = 59
+  width = 21
+  actionid = 718c66a7-f383-4edc-8af2-b922071f2fa81626554305607
+  action = addbutton
+  y = 60
+  delayappearance = true
+  backgroundnormal = config\fancymenu\modpack\youtube.png
+  value = https://www.youtube.com/channel/UCuDptAueJ7YoIYMGafrH-Mw
+  delayappearanceeverytime = false
+  height = 21
+}
+
+customization {
+  hoversound = config/fancymenu/modpack/sounds/hover.wav
+  orientation = mid-left
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.0
+  buttonaction = openlink
+  backgroundhovered = config\fancymenu\modpack\github.png
+  label = 
+  clicksound = config/fancymenu/modpack/sounds/click.wav
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 89
+  width = 21
+  actionid = 27fbec64-026d-4106-b1d5-60c8038bd1691652772654043
+  action = addbutton
+  y = 60
+  delayappearance = true
+  backgroundnormal = config\fancymenu\modpack\github.png
+  value = https://github.com/SpeeeDCraft/TerraFirmaGreg-1.12.2
+  delayappearanceeverytime = false
+  height = 21
+}
+
