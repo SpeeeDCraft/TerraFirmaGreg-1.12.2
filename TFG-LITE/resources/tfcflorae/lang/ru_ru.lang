@@ -33177,137 +33177,137 @@ config.tfcflorae.general.structures=Structure generation settings
 config.tfcflorae.general.structures.tooltip=Structure settings for TFC Florae
 
 config.tfcflorae.general.world.humusRarity=Humus Depository Rarity
-config.tfcflorae.general.world.humusRarity.tooltip=The rarity for humus pits to occur. On average 1 / N chunks will have a humus deposit, if the chunk in question is valid for humus to spawn.
+config.tfcflorae.general.world.humusRarity.tooltip=The rarity for humus pits to occur. В среднем 1 / N чанков будут иметь a humus deposit, if the chunk in question is valid for humus to spawn.
 
 config.tfcflorae.general.world.podzolRarity=Podzol Depository Rarity
-config.tfcflorae.general.world.podzolRarity.tooltip=The rarity for podzol pits to occur. On average 1 / N chunks will have a podzol deposit, if the chunk in question is valid for podzol to spawn.
+config.tfcflorae.general.world.podzolRarity.tooltip=The rarity for podzol pits to occur. В среднем 1 / N чанков будут иметь a podzol deposit, if the chunk in question is valid for podzol to spawn.
 
 config.tfcflorae.general.world.mudRarity=Mud Depository Rarity
-config.tfcflorae.general.world.mudRarity.tooltip=The rarity for mud pits to occur. On average 1 / N chunks will have a mud deposit, if the chunk in question is valid for mud to spawn.
+config.tfcflorae.general.world.mudRarity.tooltip=The rarity for mud pits to occur. В среднем 1 / N чанков будут иметь a mud deposit, if the chunk in question is valid for mud to spawn.
 
 config.tfcflorae.general.world.bogIronRarity=Bog Iron Depository Rarity
-config.tfcflorae.general.world.bogIronRarity.tooltip=The rarity for bog iron pits to occur. On average 1 / N chunks will have a bog iron deposit, if the chunk in question is valid for bog iron to spawn.
+config.tfcflorae.general.world.bogIronRarity.tooltip=The rarity for bog iron pits to occur. В среднем 1 / N чанков будут иметь a bog iron deposit, if the chunk in question is valid for bog iron to spawn.
 
 config.tfcflorae.general.world.sparseGrassRarity=Sparse Grass Rarity
-config.tfcflorae.general.world.sparseGrassRarity.tooltip=The rarity for sparse grass to occur. On average 1 / N chunks will have sparse grass, if the chunk in question is valid for sparse grass to spawn.
+config.tfcflorae.general.world.sparseGrassRarity.tooltip=The rarity for sparse grass to occur. В среднем 1 / N чанков будут иметь sparse grass, if the chunk in question is valid for sparse grass to spawn.
 
 config.tfcflorae.general.world.loamySandRarity=Loamy Sand Depository Rarity
-config.tfcflorae.general.world.loamySandRarity.tooltip=The rarity for loamy sand pits to occur. On average 1 / N chunks will have a loamy sand deposit, if the chunk in question is valid for loamy sand to spawn.
+config.tfcflorae.general.world.loamySandRarity.tooltip=The rarity for loamy sand pits to occur. В среднем 1 / N чанков будут иметь a loamy sand deposit, if the chunk in question is valid for loamy sand to spawn.
 
 config.tfcflorae.general.world.sandyLoamRarity=Sandy Loam Depository Rarity
-config.tfcflorae.general.world.sandyLoamRarity.tooltip=The rarity for sandy loam pits to occur. On average 1 / N chunks will have a sandy loam deposit, if the chunk in question is valid for sandy loam to spawn.
+config.tfcflorae.general.world.sandyLoamRarity.tooltip=The rarity for sandy loam pits to occur. В среднем 1 / N чанков будут иметь a sandy loam deposit, if the chunk in question is valid for sandy loam to spawn.
 
 config.tfcflorae.general.world.loamRarity=Loam Depository Rarity
-config.tfcflorae.general.world.loamRarity.tooltip=The rarity for loam pits to occur. On average 1 / N chunks will have a loam deposit, if the chunk in question is valid for loam to spawn.
+config.tfcflorae.general.world.loamRarity.tooltip=The rarity for loam pits to occur. В среднем 1 / N чанков будут иметь a loam deposit, if the chunk in question is valid for loam to spawn.
 
 config.tfcflorae.general.world.siltLoamRarity=Silt Loam Depository Rarity
-config.tfcflorae.general.world.siltLoamRarity.tooltip=The rarity for silt loam pits to occur. On average 1 / N chunks will have a silt loam deposit, if the chunk in question is valid for silt loam to spawn.
+config.tfcflorae.general.world.siltLoamRarity.tooltip=The rarity for silt loam pits to occur. В среднем 1 / N чанков будут иметь a silt loam deposit, if the chunk in question is valid for silt loam to spawn.
 
 config.tfcflorae.general.world.siltRarity=Silt Depository Rarity
-config.tfcflorae.general.world.siltRarity.tooltip=The rarity for silt pits to occur. On average 1 / N chunks will have a silt deposit, if the chunk in question is valid for silt to spawn.
+config.tfcflorae.general.world.siltRarity.tooltip=The rarity for silt pits to occur. В среднем 1 / N чанков будут иметь a silt deposit, if the chunk in question is valid for silt to spawn.
 
 config.tfcflorae.general.world.sandyClayRarity=Sandy Clay Depository Rarity
-config.tfcflorae.general.world.sandyClayRarity.tooltip=The rarity for sandy clay pits to occur. On average 1 / N chunks will have a sandy clay deposit, if the chunk in question is valid for sandy clay to spawn.
+config.tfcflorae.general.world.sandyClayRarity.tooltip=The rarity for sandy clay pits to occur. В среднем 1 / N чанков будут иметь a sandy clay deposit, if the chunk in question is valid for sandy clay to spawn.
 
 config.tfcflorae.general.world.sandyClayLoamRarity=Sandy Clay Loam Depository Rarity
-config.tfcflorae.general.world.sandyClayLoamRarity.tooltip=The rarity for sandy clay loam pits to occur. On average 1 / N chunks will have a sandy clay loam deposit, if the chunk in question is valid for sandy clay loam to spawn.
+config.tfcflorae.general.world.sandyClayLoamRarity.tooltip=The rarity for sandy clay loam pits to occur. В среднем 1 / N чанков будут иметь a sandy clay loam deposit, if the chunk in question is valid for sandy clay loam to spawn.
 
 config.tfcflorae.general.world.clayLoamRarity=Clay Loam Depository Rarity
-config.tfcflorae.general.world.clayLoamRarity.tooltip=The rarity for clay loam pits to occur. On average 1 / N chunks will have a clay loam deposit, if the chunk in question is valid for clay loam to spawn.
+config.tfcflorae.general.world.clayLoamRarity.tooltip=The rarity for clay loam pits to occur. В среднем 1 / N чанков будут иметь a clay loam deposit, if the chunk in question is valid for clay loam to spawn.
 
 config.tfcflorae.general.world.siltyClayLoamRarity=Silty Clay Loam Depository Rarity
-config.tfcflorae.general.world.siltyClayLoamRarity.tooltip=The rarity for silty clay loam pits to occur. On average 1 / N chunks will have a silty clay loam deposit, if the chunk in question is valid for silty clay loam to spawn.
+config.tfcflorae.general.world.siltyClayLoamRarity.tooltip=The rarity for silty clay loam pits to occur. В среднем 1 / N чанков будут иметь a silty clay loam deposit, if the chunk in question is valid for silty clay loam to spawn.
 
 config.tfcflorae.general.world.siltyClayRarity=Silty Clay Depository Rarity
-config.tfcflorae.general.world.siltyClayRarity.tooltip=The rarity for silty clay pits to occur. On average 1 / N chunks will have a silty clay deposit, if the chunk in question is valid for silty clay to spawn.
+config.tfcflorae.general.world.siltyClayRarity.tooltip=The rarity for silty clay pits to occur. В среднем 1 / N чанков будут иметь a silty clay deposit, if the chunk in question is valid for silty clay to spawn.
 
 config.tfcflorae.general.world.clayHumusRarity=Clay Humus Depository Rarity
-config.tfcflorae.general.world.clayHumusRarity.tooltip=The rarity for clay humus pits to occur. On average 1 / N chunks will have a clay humus deposit, if the chunk in question is valid for clay humus to spawn.
+config.tfcflorae.general.world.clayHumusRarity.tooltip=The rarity for clay humus pits to occur. В среднем 1 / N чанков будут иметь a clay humus deposit, if the chunk in question is valid for clay humus to spawn.
 
 config.tfcflorae.general.world.earthenwareClayRarity=Earthenware Clay Depository Rarity
-config.tfcflorae.general.world.earthenwareClayRarity.tooltip=The rarity for earthenware clay pits to occur. On average 1 / N chunks will have a earthenware clay deposit, if the chunk in question is valid for earthenware clay to spawn.
+config.tfcflorae.general.world.earthenwareClayRarity.tooltip=The rarity for earthenware clay pits to occur. В среднем 1 / N чанков будут иметь a earthenware clay deposit, if the chunk in question is valid for earthenware clay to spawn.
 
 config.tfcflorae.general.world.sandyEarthenwareClayRarity=Sandy Earthenware Clay Depository Rarity
-config.tfcflorae.general.world.sandyEarthenwareClayRarity.tooltip=The rarity for sandy earthenware clay pits to occur. On average 1 / N chunks will have a sandy earthenware clay deposit, if the chunk in question is valid for sandy earthenware clay to spawn.
+config.tfcflorae.general.world.sandyEarthenwareClayRarity.tooltip=The rarity for sandy earthenware clay pits to occur. В среднем 1 / N чанков будут иметь a sandy earthenware clay deposit, if the chunk in question is valid for sandy earthenware clay to spawn.
 
 config.tfcflorae.general.world.sandyEarthenwareClayLoamRarity=Sandy Earthenware Clay Loam Depository Rarity
-config.tfcflorae.general.world.sandyEarthenwareClayLoamRarity.tooltip=The rarity for sandy earthenware clay loam pits to occur. On average 1 / N chunks will have a sandy earthenware clay loam deposit, if the chunk in question is valid for sandy earthenware clay loam to spawn.
+config.tfcflorae.general.world.sandyEarthenwareClayLoamRarity.tooltip=The rarity for sandy earthenware clay loam pits to occur. В среднем 1 / N чанков будут иметь a sandy earthenware clay loam deposit, if the chunk in question is valid for sandy earthenware clay loam to spawn.
 
 config.tfcflorae.general.world.earthenwareClayLoamRarity=Earthenware Clay Loam Depository Rarity
-config.tfcflorae.general.world.earthenwareClayLoamRarity.tooltip=The rarity for earthenware clay loam pits to occur. On average 1 / N chunks will have a earthenware clay loam deposit, if the chunk in question is valid for earthenware clay loam to spawn.
+config.tfcflorae.general.world.earthenwareClayLoamRarity.tooltip=The rarity for earthenware clay loam pits to occur. В среднем 1 / N чанков будут иметь a earthenware clay loam deposit, if the chunk in question is valid for earthenware clay loam to spawn.
 
 config.tfcflorae.general.world.siltyEarthenwareClayLoamRarity=Silty Earthenware Clay Loam Depository Rarity
-config.tfcflorae.general.world.siltyEarthenwareClayLoamRarity.tooltip=The rarity for silty earthenware clay loam pits to occur. On average 1 / N chunks will have a silty earthenware clay loam deposit, if the chunk in question is valid for silty earthenware clay loam to spawn.
+config.tfcflorae.general.world.siltyEarthenwareClayLoamRarity.tooltip=The rarity for silty earthenware clay loam pits to occur. В среднем 1 / N чанков будут иметь a silty earthenware clay loam deposit, if the chunk in question is valid for silty earthenware clay loam to spawn.
 
 config.tfcflorae.general.world.siltyEarthenwareClayRarity=Silty Earthenware Clay Depository Rarity
-config.tfcflorae.general.world.siltyEarthenwareClayRarity.tooltip=The rarity for silty earthenware clay pits to occur. On average 1 / N chunks will have a silty earthenware clay deposit, if the chunk in question is valid for silty earthenware clay to spawn.
+config.tfcflorae.general.world.siltyEarthenwareClayRarity.tooltip=The rarity for silty earthenware clay pits to occur. В среднем 1 / N чанков будут иметь a silty earthenware clay deposit, if the chunk in question is valid for silty earthenware clay to spawn.
 
 config.tfcflorae.general.world.earthenwareClayHumusRarity=Earthenware Clay Humus Depository Rarity
-config.tfcflorae.general.world.earthenwareClayHumusRarity.tooltip=The rarity for earthenware clay humus pits to occur. On average 1 / N chunks will have a earthenware clay humus deposit, if the chunk in question is valid for earthenware clay humus to spawn.
+config.tfcflorae.general.world.earthenwareClayHumusRarity.tooltip=The rarity for earthenware clay humus pits to occur. В среднем 1 / N чанков будут иметь a earthenware clay humus deposit, if the chunk in question is valid for earthenware clay humus to spawn.
 
 config.tfcflorae.general.world.kaoliniteClayRarity=Kaolinite Clay Depository Rarity
-config.tfcflorae.general.world.kaoliniteClayRarity.tooltip=The rarity for kaolinite clay pits to occur. On average 1 / N chunks will have a kaolinite clay deposit, if the chunk in question is valid for kaolinite clay to spawn.
+config.tfcflorae.general.world.kaoliniteClayRarity.tooltip=The rarity for kaolinite clay pits to occur. В среднем 1 / N чанков будут иметь a kaolinite clay deposit, if the chunk in question is valid for kaolinite clay to spawn.
 
 config.tfcflorae.general.world.sandyKaoliniteClayRarity=Sandy Kaolinite Clay Depository Rarity
-config.tfcflorae.general.world.sandyKaoliniteClayRarity.tooltip=The rarity for sandy kaolinite clay pits to occur. On average 1 / N chunks will have a sandy kaolinite clay deposit, if the chunk in question is valid for sandy kaolinite clay to spawn.
+config.tfcflorae.general.world.sandyKaoliniteClayRarity.tooltip=The rarity for sandy kaolinite clay pits to occur. В среднем 1 / N чанков будут иметь a sandy kaolinite clay deposit, if the chunk in question is valid for sandy kaolinite clay to spawn.
 
 config.tfcflorae.general.world.sandyKaoliniteClayLoamRarity=Sandy Kaolinite Clay Loam Depository Rarity
-config.tfcflorae.general.world.sandyKaoliniteClayLoamRarity.tooltip=The rarity for sandy kaolinite clay loam pits to occur. On average 1 / N chunks will have a sandy kaolinite clay loam deposit, if the chunk in question is valid for sandy kaolinite clay loam to spawn.
+config.tfcflorae.general.world.sandyKaoliniteClayLoamRarity.tooltip=The rarity for sandy kaolinite clay loam pits to occur. В среднем 1 / N чанков будут иметь a sandy kaolinite clay loam deposit, if the chunk in question is valid for sandy kaolinite clay loam to spawn.
 
 config.tfcflorae.general.world.kaoliniteClayLoamRarity=Kaolinite Clay Loam Depository Rarity
-config.tfcflorae.general.world.kaoliniteClayLoamRarity.tooltip=The rarity for kaolinite clay loam pits to occur. On average 1 / N chunks will have a kaolinite clay loam deposit, if the chunk in question is valid for kaolinite clay loam to spawn.
+config.tfcflorae.general.world.kaoliniteClayLoamRarity.tooltip=The rarity for kaolinite clay loam pits to occur. В среднем 1 / N чанков будут иметь a kaolinite clay loam deposit, if the chunk in question is valid for kaolinite clay loam to spawn.
 
 config.tfcflorae.general.world.siltyKaoliniteClayLoamRarity=Silty Kaolinite Clay Loam Depository Rarity
-config.tfcflorae.general.world.siltyKaoliniteClayLoamRarity.tooltip=The rarity for silty kaolinite clay loam pits to occur. On average 1 / N chunks will have a silty kaolinite clay loam deposit, if the chunk in question is valid for silty kaolinite clay loam to spawn.
+config.tfcflorae.general.world.siltyKaoliniteClayLoamRarity.tooltip=The rarity for silty kaolinite clay loam pits to occur. В среднем 1 / N чанков будут иметь a silty kaolinite clay loam deposit, if the chunk in question is valid for silty kaolinite clay loam to spawn.
 
 config.tfcflorae.general.world.siltyKaoliniteClayRarity=Silty Kaolinite Clay Depository Rarity
-config.tfcflorae.general.world.siltyKaoliniteClayRarity.tooltip=The rarity for silty kaolinite clay pits to occur. On average 1 / N chunks will have a silty kaolinite clay deposit, if the chunk in question is valid for silty kaolinite clay to spawn.
+config.tfcflorae.general.world.siltyKaoliniteClayRarity.tooltip=The rarity for silty kaolinite clay pits to occur. В среднем 1 / N чанков будут иметь a silty kaolinite clay deposit, if the chunk in question is valid for silty kaolinite clay to spawn.
 
 config.tfcflorae.general.world.kaoliniteClayHumusRarity=Kaolinite Clay Humus Depository Rarity
-config.tfcflorae.general.world.kaoliniteClayHumusRarity.tooltip=The rarity for kaolinite clay humus pits to occur. On average 1 / N chunks will have a kaolinite clay humus deposit, if the chunk in question is valid for kaolinite clay humus to spawn.
+config.tfcflorae.general.world.kaoliniteClayHumusRarity.tooltip=The rarity for kaolinite clay humus pits to occur. В среднем 1 / N чанков будут иметь a kaolinite clay humus deposit, if the chunk in question is valid for kaolinite clay humus to spawn.
 
 
 config.tfcflorae.general.world.stonewareClayRarity=Stoneware Clay Depository Rarity
-config.tfcflorae.general.world.stonewareClayRarity.tooltip=The rarity for stoneware clay pits to occur. On average 1 / N chunks will have a stoneware clay deposit, if the chunk in question is valid for stoneware clay to spawn.
+config.tfcflorae.general.world.stonewareClayRarity.tooltip=The rarity for stoneware clay pits to occur. В среднем 1 / N чанков будут иметь a stoneware clay deposit, if the chunk in question is valid for stoneware clay to spawn.
 
 config.tfcflorae.general.world.sandyStonewareClayRarity=Sandy Stoneware Clay Depository Rarity
-config.tfcflorae.general.world.sandyStonewareClayRarity.tooltip=The rarity for sandy stoneware clay pits to occur. On average 1 / N chunks will have a sandy stoneware clay deposit, if the chunk in question is valid for sandy stoneware clay to spawn.
+config.tfcflorae.general.world.sandyStonewareClayRarity.tooltip=The rarity for sandy stoneware clay pits to occur. В среднем 1 / N чанков будут иметь a sandy stoneware clay deposit, if the chunk in question is valid for sandy stoneware clay to spawn.
 
 config.tfcflorae.general.world.sandyStonewareClayLoamRarity=Sandy Stoneware Clay Loam Depository Rarity
-config.tfcflorae.general.world.sandyStonewareClayLoamRarity.tooltip=The rarity for sandy stoneware clay loam pits to occur. On average 1 / N chunks will have a sandy stoneware clay loam deposit, if the chunk in question is valid for sandy stoneware clay loam to spawn.
+config.tfcflorae.general.world.sandyStonewareClayLoamRarity.tooltip=The rarity for sandy stoneware clay loam pits to occur. В среднем 1 / N чанков будут иметь a sandy stoneware clay loam deposit, if the chunk in question is valid for sandy stoneware clay loam to spawn.
 
 config.tfcflorae.general.world.stonewareClayLoamRarity=Stoneware Clay Loam Depository Rarity
-config.tfcflorae.general.world.stonewareClayLoamRarity.tooltip=The rarity for stoneware clay loam pits to occur. On average 1 / N chunks will have a stoneware clay loam deposit, if the chunk in question is valid for stoneware clay loam to spawn.
+config.tfcflorae.general.world.stonewareClayLoamRarity.tooltip=The rarity for stoneware clay loam pits to occur. В среднем 1 / N чанков будут иметь a stoneware clay loam deposit, if the chunk in question is valid for stoneware clay loam to spawn.
 
 config.tfcflorae.general.world.siltyStonewareClayLoamRarity=Silty Stoneware Clay Loam Depository Rarity
-config.tfcflorae.general.world.siltyStonewareClayLoamRarity.tooltip=The rarity for silty stoneware clay loam pits to occur. On average 1 / N chunks will have a silty stoneware clay loam deposit, if the chunk in question is valid for silty stoneware clay loam to spawn.
+config.tfcflorae.general.world.siltyStonewareClayLoamRarity.tooltip=The rarity for silty stoneware clay loam pits to occur. В среднем 1 / N чанков будут иметь a silty stoneware clay loam deposit, if the chunk in question is valid for silty stoneware clay loam to spawn.
 
 config.tfcflorae.general.world.siltyStonewareClayRarity=Silty Stoneware Clay Depository Rarity
-config.tfcflorae.general.world.siltyStonewareClayRarity.tooltip=The rarity for silty stoneware clay pits to occur. On average 1 / N chunks will have a silty stoneware clay deposit, if the chunk in question is valid for silty stoneware clay to spawn.
+config.tfcflorae.general.world.siltyStonewareClayRarity.tooltip=The rarity for silty stoneware clay pits to occur. В среднем 1 / N чанков будут иметь a silty stoneware clay deposit, if the chunk in question is valid for silty stoneware clay to spawn.
 
 config.tfcflorae.general.world.stonewareClayHumusRarity=Stoneware Clay Humus Depository Rarity
-config.tfcflorae.general.world.stonewareClayHumusRarity.tooltip=The rarity for stoneware clay humus pits to occur. On average 1 / N chunks will have a stoneware clay humus deposit, if the chunk in question is valid for stoneware clay humus to spawn.
+config.tfcflorae.general.world.stonewareClayHumusRarity.tooltip=The rarity for stoneware clay humus pits to occur. В среднем 1 / N чанков будут иметь a stoneware clay humus deposit, if the chunk in question is valid for stoneware clay humus to spawn.
 
 config.tfcflorae.general.world.coarseDirtRarity=Coarse Dirt Depository Rarity
-config.tfcflorae.general.world.coarseDirtRarity.tooltip=The rarity for coarse dirt pits to occur. On average 1 / N chunks will have a coarse dirt deposit, if the chunk in question is valid for coarse dirt to spawn.
+config.tfcflorae.general.world.coarseDirtRarity.tooltip=The rarity for coarse dirt pits to occur. В среднем 1 / N чанков будут иметь a coarse dirt deposit, if the chunk in question is valid for coarse dirt to spawn.
 
 config.tfcflorae.general.world.coarseLoamySandRarity=Coarse Loamy Sand Depository Rarity
-config.tfcflorae.general.world.coarseLoamySandRarity.tooltip=The rarity for coarse loamy sand pits to occur. On average 1 / N chunks will have a coarse loamy sand deposit, if the chunk in question is valid for coarse loamy sand to spawn.
+config.tfcflorae.general.world.coarseLoamySandRarity.tooltip=The rarity for coarse loamy sand pits to occur. В среднем 1 / N чанков будут иметь a coarse loamy sand deposit, if the chunk in question is valid for coarse loamy sand to spawn.
 
 config.tfcflorae.general.world.coarseSandyLoamRarity=Coarse Sandy Loam Depository Rarity
-config.tfcflorae.general.world.coarseSandyLoamRarity.tooltip=The rarity for coarse sandy loam pits to occur. On average 1 / N chunks will have a coarse sandy loam deposit, if the chunk in question is valid for coarse sandy loam to spawn.
+config.tfcflorae.general.world.coarseSandyLoamRarity.tooltip=The rarity for coarse sandy loam pits to occur. В среднем 1 / N чанков будут иметь a coarse sandy loam deposit, if the chunk in question is valid for coarse sandy loam to spawn.
 
 config.tfcflorae.general.world.coarseLoamRarity=Coarse Loam Depository Rarity
-config.tfcflorae.general.world.coarseLoamRarity.tooltip=The rarity for coarse loam pits to occur. On average 1 / N chunks will have a coarse loam deposit, if the chunk in question is valid for coarse loam to spawn.
+config.tfcflorae.general.world.coarseLoamRarity.tooltip=The rarity for coarse loam pits to occur. В среднем 1 / N чанков будут иметь a coarse loam deposit, if the chunk in question is valid for coarse loam to spawn.
 
 config.tfcflorae.general.world.coarseSiltLoamRarity=Coarse Silt Loam Depository Rarity
-config.tfcflorae.general.world.coarseSiltLoamRarity.tooltip=The rarity for coarse silt loam pits to occur. On average 1 / N chunks will have a coarse silt loam deposit, if the chunk in question is valid for coarse silt loam to spawn.
+config.tfcflorae.general.world.coarseSiltLoamRarity.tooltip=The rarity for coarse silt loam pits to occur. В среднем 1 / N чанков будут иметь a coarse silt loam deposit, if the chunk in question is valid for coarse silt loam to spawn.
 
 config.tfcflorae.general.world.coarseSiltRarity=Coarse Silt Depository Rarity
-config.tfcflorae.general.world.coarseSiltRarity.tooltip=The rarity for coarse silt pits to occur. On average 1 / N chunks will have a coarse silt deposit, if the chunk in question is valid for coarse silt to spawn.
+config.tfcflorae.general.world.coarseSiltRarity.tooltip=The rarity for coarse silt pits to occur. В среднем 1 / N чанков будут иметь a coarse silt deposit, if the chunk in question is valid for coarse silt to spawn.
 
 config.tfcflorae.general.world.coarseHumusRarity=Coarse Humus Depository Rarity
-config.tfcflorae.general.world.coarseHumusRarity.tooltip=The rarity for coarse humus pits to occur. On average 1 / N chunks will have a coarse humus deposit, if the chunk in question is valid for coarse humus to spawn.
+config.tfcflorae.general.world.coarseHumusRarity.tooltip=The rarity for coarse humus pits to occur. В среднем 1 / N чанков будут иметь a coarse humus deposit, if the chunk in question is valid for coarse humus to spawn.
 
 config.tfcflorae.general.world.groundcoverBonesFrequency=Groundcover Bones Frequency
 config.tfcflorae.general.world.groundcoverBonesFrequency.tooltip=The number of attempts per chunk to spawn bones.
@@ -33334,10 +33334,10 @@ config.tfcflorae.general.world.groundcoverTwigFrequency=Groundcover Twig Frequen
 config.tfcflorae.general.world.groundcoverTwigFrequency.tooltip=The number of attempts per chunk to spawn twigs.
 
 config.tfcflorae.general.world.bambooRarity=Bamboo Tree Rarity
-config.tfcflorae.general.world.bambooRarity.tooltip=The rarity for bamboo trees to generate. On average 1 / N chunks will have a bamboo tree, if the chunk in question is valid for bamboo to generate.
+config.tfcflorae.general.world.bambooRarity.tooltip=The rarity for bamboo trees to generate. В среднем 1 / N чанков будут иметь a bamboo tree, if the chunk in question is valid for bamboo to generate.
 
 config.tfcflorae.general.world.cinnamonRarity=Bamboo Tree Rarity
-config.tfcflorae.general.world.cinnamonRarity.tooltip=The rarity for cinnamon trees to generate. On average 1 / N chunks will have a cinnamon tree, if the chunk in question is valid for cinnamon to generate.
+config.tfcflorae.general.world.cinnamonRarity.tooltip=The rarity for cinnamon trees to generate. В среднем 1 / N чанков будут иметь a cinnamon tree, if the chunk in question is valid for cinnamon to generate.
 
 config.tfcflorae.general.world.enableGourdWorldGen=Gourd Generation
 config.tfcflorae.general.world.enableGourdWorldGen.tooltip=Enable gourd generation?
@@ -33399,50 +33399,50 @@ config.tfcflorae.general.world.enableAllPodzol.tooltip=Enable podzol blocks?
 config.tfcflorae.general.world.enableAllSparseGrass=All Sparse Grass
 config.tfcflorae.general.world.enableAllSparseGrass.tooltip=Enable sparse grass blocks?
 
-config.tfcflorae.general.world.enableAllSpecialSoil=All Special Soils
-config.tfcflorae.general.world.enableAllSpecialSoil.tooltip=Enable special soil blocks?
+config.tfcflorae.general.world.enableAllSpecialSoil=Все специальные почвы
+config.tfcflorae.general.world.enableAllSpecialSoil.tooltip=Включить блоки специальных почв?
 
-config.tfcflorae.general.world.enableAllEarthenwareClay=All Earthenware Clay
-config.tfcflorae.general.world.enableAllEarthenwareClay.tooltip=Enable earthenware clay blocks?
+config.tfcflorae.general.world.enableAllEarthenwareClay=Все терракоты
+config.tfcflorae.general.world.enableAllEarthenwareClay.tooltip=Включить блоки терракоты?
 
 config.tfcflorae.general.world.enableAllKaoliniteClay=Вся каолинитовая глина
 config.tfcflorae.general.world.enableAllKaoliniteClay.tooltip=Включить блоки каолинитовой глины?
 
-config.tfcflorae.general.world.enableAllStonewareClay=All Stoneware Clay
-config.tfcflorae.general.world.enableAllStonewareClay.tooltip=Enable stoneware clay blocks?
+config.tfcflorae.general.world.enableAllStonewareClay=Все глины для керамики
+config.tfcflorae.general.world.enableAllStonewareClay.tooltip=Включить блоки глины для керамики?
 
-config.tfcflorae.general.world.enableAllFarmland=All Special Soil Farmland
-config.tfcflorae.general.world.enableAllFarmland.tooltip=Enable special soil farmland blocks?
+config.tfcflorae.general.world.enableAllFarmland=Все специальные почвы для фермерства
+config.tfcflorae.general.world.enableAllFarmland.tooltip=Включить все специальные почвы для фермерства?
 
-config.tfcflorae.general.structures.activateStructureGeneration=All Structure Generation
-config.tfcflorae.general.structures.activateStructureGeneration.tooltip=Activate structure generation?
+config.tfcflorae.general.structures.activateStructureGeneration=Генерация всех структур
+config.tfcflorae.general.structures.activateStructureGeneration.tooltip=Включить генерацию структур?
 
-config.tfcflorae.general.structures.generationModifier=Structure Generation Rarity Modifier
-config.tfcflorae.general.structures.generationModifier.tooltip=This value multiplies the generation chance. E.g. the spawn chance is 1000 and the config says 0.3 ==> 1000 x 0.3 = 300. '300' is now the new generation chance.
+config.tfcflorae.general.structures.generationModifier=Модификатор редкости генерации структур
+config.tfcflorae.general.structures.generationModifier.tooltip=Это значение умножается на шанс генерации. Например шанс спавна 1000 и конфиг говорит 0.3 ==> 1000 x 0.3 = 300. '300' теперь новый шанс генерации.
 
-config.tfcflorae.general.structures.spawnChanceRuins=Stone Circle Generation
-config.tfcflorae.general.structures.spawnChanceRuins.tooltip=Generation chance for stone circle ruins. On average 1 / N chunks will have stone circle ruins.
+config.tfcflorae.general.structures.spawnChanceRuins=Генерация каменных кругов
+config.tfcflorae.general.structures.spawnChanceRuins.tooltip=Шанс генерации руин каменных кругов. В среднем 1 / N чанков будут иметь руины каменных кругов.
 
-config.tfcflorae.general.structures.spawnChanceMoai=Moai Generation
-config.tfcflorae.general.structures.spawnChanceMoai.tooltip=Generation chance for moai statues. On average 1 / N chunks will have moai statues.
+config.tfcflorae.general.structures.spawnChanceMoai=Генерация Моаи
+config.tfcflorae.general.structures.spawnChanceMoai.tooltip=Шанс генерации статуй Моаи. В среднем 1 / N чанков будут иметь статуи Моаи.
 
-config.tfcflorae.general.structures.spawnChanceMoai=Mayan Temple Generation
-config.tfcflorae.general.structures.spawnChanceMoai.tooltip=Generation chance for mayan temples. On average 1 / N chunks will have mayan temples.
+config.tfcflorae.general.structures.spawnChanceMoai=Генерация храмов Майя
+config.tfcflorae.general.structures.spawnChanceMoai.tooltip=Шанс генерации храмов Майя. В среднем 1 / N чанков будут иметь храм Майя.
 
-jei.category.tfcflorae.knap.pineapple_leather=Pineapple Leather knapping
-jei.category.tfcflorae.knap.burlap_cloth=Burlap Cloth knapping
-jei.category.tfcflorae.knap.wool_cloth=Wool Cloth knapping
-jei.category.tfcflorae.knap.silk_cloth=Silk Cloth knapping
-jei.category.tfcflorae.knap.sisal_cloth=Sisal Cloth knapping
-jei.category.tfcflorae.knap.cotton_cloth=Cotton Cloth knapping
-jei.category.tfcflorae.knap.linen_cloth=Linen Cloth knapping
-jei.category.tfcflorae.knap.hemp_cloth=Hemp Cloth knapping
-jei.category.tfcflorae.knap.yucca_canvas=Yucca Canvas knapping
-jei.category.tfcflorae.knap.mud=Mud knapping
+jei.category.tfcflorae.knap.pineapple_leather=Формовка из ананасовой кожи
+jei.category.tfcflorae.knap.burlap_cloth=Формовка из мешковины
+jei.category.tfcflorae.knap.wool_cloth=Формовка из шерстяной ткани
+jei.category.tfcflorae.knap.silk_cloth=Формовка из шёлковой ткани
+jei.category.tfcflorae.knap.sisal_cloth=Формовка из сизальной ткани
+jei.category.tfcflorae.knap.cotton_cloth=Формовка из хлопковой ткани
+jei.category.tfcflorae.knap.linen_cloth=Формовка из льняного полотна
+jei.category.tfcflorae.knap.hemp_cloth=Формовка из конопляного полотна
+jei.category.tfcflorae.knap.yucca_canvas=Формовка из полотна юкки
+jei.category.tfcflorae.knap.mud=Глинобитная формовка
 jei.category.tfcflorae.knap.earthenware_clay=Earthenware Clay knapping
 jei.category.tfcflorae.knap.kaolinite_clay=Формовка из каолинитовой глины
 jei.category.tfcflorae.knap.stoneware_clay=Stoneware Clay knapping
-jei.category.tfcflorae.knap.flint=Flint knapping
+jei.category.tfcflorae.knap.flint=Формовка из кремня
 jei.category.tfcflorae.casting=Литьё
 jei.category.tfcflorae.casting_earthenware_firmalife=Литьё
 jei.category.tfcflorae.casting_kaolinite_firmalife=Литьё
