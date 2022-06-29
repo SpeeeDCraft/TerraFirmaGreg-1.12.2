@@ -12,7 +12,7 @@ tfcflorae.tooltip.urn_seal=Запечатанная урна
 tfcflorae.tooltip.urn_unseal=Распечатанная урна
 
 tfcflorae.tooltip.crate_seal=Запечатанный ящик
-tfcflorae.tooltip.crate_unseal=Распечатанная ящик
+tfcflorae.tooltip.crate_unseal=Распечатанный ящик
 
 ## Fluids
 fluid.distilled_water=Дистиллированная вода
