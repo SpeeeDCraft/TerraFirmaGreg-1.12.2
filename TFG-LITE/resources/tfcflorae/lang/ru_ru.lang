@@ -1,18 +1,18 @@
 # Gui
 
 ## Tooltips
-tfcflorae.tooltip.large_earthenware_vessel_seal=Запечатанный большой кувшин
+tfcflorae.tooltip.large_earthenware_vessel_seal=Запечатать большой кувшин
 tfcflorae.tooltip.large_earthenware_vessel_unseal=Распечатать большой кувшин
-tfcflorae.tooltip.large_kaolinite_vessel_seal=Запечатанный большой кувшин
+tfcflorae.tooltip.large_kaolinite_vessel_seal=Запечатать большой кувшин
 tfcflorae.tooltip.large_kaolinite_vessel_unseal=Распечатать большой кувшин
-tfcflorae.tooltip.large_stoneware_vessel_seal=Запечатанный большой кувшин
+tfcflorae.tooltip.large_stoneware_vessel_seal=Запечатать большой кувшин
 tfcflorae.tooltip.large_stoneware_vessel_unseal=Распечатать большой кувшин
 
-tfcflorae.tooltip.urn_seal=Запечатанная урна
-tfcflorae.tooltip.urn_unseal=Распечатанная урна
+tfcflorae.tooltip.urn_seal=Запечатать урну
+tfcflorae.tooltip.urn_unseal=Распечатать урну
 
-tfcflorae.tooltip.crate_seal=Запечатанный ящик
-tfcflorae.tooltip.crate_unseal=Распечатанная ящик
+tfcflorae.tooltip.crate_seal=Запечатать ящик
+tfcflorae.tooltip.crate_unseal=Распечатать ящик
 
 ## Fluids
 fluid.distilled_water=Дистиллированная вода
@@ -246,7 +246,7 @@ tile.tfcflorae.wall.mud_bricks.wackestone.name=Ваккитная глиноби
 tile.tfcflorae.wall.mud_bricks.greenschist.name=зеленый сланец глинобитная стена
 tile.tfcflorae.wall.mud_bricks.cataclasite.name=Cataclasite глинобитная стена
 tile.tfcflorae.wall.mud_bricks.mylonite.name=Mylonite глинобитная стена
-tile.tfcflorae.wall.mud_bricks.catlinite.name=Catlinite глинобитная стена
+tile.tfcflorae.wall.mud_bricks.catlinite.name=Катлинит глинобитная стена
 
 tile.tfcflorae.stairs.mud_bricks.granite.name=Granite Mud Stairs
 tile.tfcflorae.stairs.mud_bricks.diorite.name=Diorite Mud Stairs
